@@ -1,0 +1,8 @@
+.env*
+!.env.example
+.local-state.json
+.vercel
+node_modules
+
+seed.json
+checkpoints/
